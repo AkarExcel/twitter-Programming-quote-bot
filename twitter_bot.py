@@ -3,7 +3,6 @@ from os import environ
 import json
 import random
 import tweepy
-import credentials
 import time
 
 hashtags = "#NFTcommunity #Programmingquote #programmerlife #developerlife #solidity #web3community  #codingisfun #ethicalhacking #coderlife #react #programmingisfun #bhfyp #vyper #programmerslife"
