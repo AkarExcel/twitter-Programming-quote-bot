@@ -5,7 +5,7 @@ import random
 import tweepy
 import time
 
-hashtags = "#NFTcommunity #Programmingquote #programmerlife #developerlife #solidity #web3community  #codingisfun #ethicalhacking #coderlife #react #programmingisfun #bhfyp #vyper #programmerslife"
+hashtags = "#NFTcommunity #Programmingquote #programmerlife #developerlife #solidity #web3community #react  #bhfyp #vyper"
 path = "./data.json"
 consumer_key = environ['API_KEY']
 consumer_secret_key = environ['API_SECRET_KEY']
